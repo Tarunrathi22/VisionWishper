@@ -1,0 +1,65 @@
+Day 1 : Project analysis(research about project)
+			Initialize Repository
+			Set Up Environment   
+			Create Project Structure
+
+Day 2 : Data Collection
+			Collect Image Datasets
+			Collect Audio Datasets 
+			Label Data 
+		
+Day 3 : Preprocess Data
+		Clean the data (Remove null values, noisy data, inconsistent data )
+		Data analysis(visulization, patterns)   # if required
+		
+
+Day 4 : Model selection for our project
+			Develop Image Recognition Model 
+			Develop Speech Recognition Model
+
+Day 5 : Model Training 
+			Train Speech Recognition
+			Train Image Recognition
+
+Day 6 : Model evalution
+			Testing of model 
+			Evaluate Models (On basis of accuracy,error rate, confusion matrix[accuracy,re-call,precsion,f1 score])
+
+Day 7 : Integration of Models
+			Integrate Image and Speech Recognition Models
+			Ensure Seamless Interaction
+
+(Machine learning part is done now we will move to UI development)
+
+Day 8 : User Interface Development
+			Develop UI for Image Upload and Category Selection 
+			Implement Custom Category Input
+
+Day 9 : ChatGPT Integration 
+			Set Up API 
+			Implement Query
+
+Day 10 : Information Retrieval and Processing 
+			Display Raw Info
+			Confirm/Edit Info
+			Refine with ChatGPT
+			Display Raw Information to User
+
+Day 11 : PDF Generation 
+			Format Information for PDF
+			Generate and Provide PDF for Download
+			
+Day 12 : Testing and Validation
+			Conduct Unit Testing
+			Perform Integration Testing
+			Carry Out User Testing
+			Collect Feedback and Improve
+	
+Day 13 : Documentation and Deployment
+			Document Functions and Tasks
+			Create Comprehensive
+			Project Explanation
+			
+
+Day 14 : Deploy Application to Suitable Platform and
+		 Completion and final submition of project
